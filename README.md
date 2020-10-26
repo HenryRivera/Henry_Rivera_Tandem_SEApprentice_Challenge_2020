@@ -10,6 +10,7 @@ Modules I imported were **random** to mix up questions in JSON file and **JSON**
 ## Additional features I would like to have added to make my trivia app even more awesome
 - I would really like to implement a multi-player functionality to practice with friends
 - A leaderboard that keeps track of the user's highest scores
+- Rather than having the user type out the correct choice, each choice should have a shorter corresponding value (i.e. 1,2,3,4)
 
 ## Assumptions
 - A round of trivia has 10 Questions
