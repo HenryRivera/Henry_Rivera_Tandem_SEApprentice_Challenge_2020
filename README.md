@@ -32,4 +32,4 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/HenryRivera/Henry_Rivera_Tandem_SEApprentice_Challenge_2020/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
