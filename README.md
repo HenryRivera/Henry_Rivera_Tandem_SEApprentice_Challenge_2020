@@ -5,10 +5,11 @@ This project is meant to be run in the terminal using Python. The interpreter I 
 Modules I imported were **random** to mix up questions in JSON file and **JSON** to parse data in JSON file
 
 ## Known issues or complexity to be on the look out for
-- When asked if you would like to play again your answer **must** be a **Y** for Yes or **N** for No
+- When asked if you would like to play again your answer **must** be a **Y** for Yes or **N** for No. Otherwise, the program will keep asking if you would like to play another round or not
 
 ## Additional features I would like to have added to make my trivia app even more awesome
 - I would really like to implement a multi-player functionality to practice with friends
+- A leaderboard that keeps track of the user's highest scores
 
 ## Assumptions
 - A round of trivia has 10 Questions
